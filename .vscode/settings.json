@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "avgpool",
+        "cmap",
+        "figsize",
+        "imread",
+        "maxpool",
+        "nrow",
+        "preds",
+        "relu",
+        "skimage",
+        "tsne"
+    ]
+}
